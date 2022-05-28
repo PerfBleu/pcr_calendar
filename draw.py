@@ -10,7 +10,7 @@ font = ImageFont.truetype(font_path, int(item_height * 0.67))
 
 color = [
     {'front': 'black', 'back': 'white'},
-    {'front': 'white', 'back': '#8cc051'},
+    {'front': 'white', 'back': '#4fc0e8'},
     {'front': 'white', 'back': '#f48222'},
     {'front': 'white', 'back': '#d870af'},
 ]
