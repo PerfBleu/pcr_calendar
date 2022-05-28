@@ -1,10 +1,15 @@
 # pcr_calendar
 
 公主连结图形化活动日历插件, 适用于 `HoshinoBot v2`.
+MOD：改为更扁平的配色
 
 项目地址 <https://github.com/zyujs/pcr_calendar>
 
-![calendar](https://user-images.githubusercontent.com/3376669/104091785-b476a080-52ba-11eb-9d0a-763cb29cc9b6.png)
+
+默认样式：
+![calendar](https://github.com/PerfBleu/pcr_calendar/raw/master/ss1.png)
+可选样式（在draw.py里自己改）：
+![calendar](https://github.com/PerfBleu/pcr_calendar/raw/master/ss2.png)
 
 ## 日程信息源
 
