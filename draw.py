@@ -10,7 +10,7 @@ font = ImageFont.truetype(font_path, int(item_height * 0.67))
 
 color = [
     {'front': 'black', 'back': 'white'},
-    {'front': 'white', 'back': '#4fc0e8'},
+    {'front': 'white', 'back': '#4fc0e8'}, ##8cc051  -这是绿色，想要绿色替换颜色数据就行
     {'front': 'white', 'back': '#f48222'},
     {'front': 'white', 'back': '#d870af'},
 ]
