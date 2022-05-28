@@ -19,7 +19,7 @@ MOD：改为更扁平的配色
 
 ## 安装方法
 
-1. 在HoshinoBot的插件目录modules下clone本项目 `git clone https://github.com/zyujs/pcr_calendar.git`
+1. 在HoshinoBot的插件目录modules下clone本项目 `git clone https://github.com/PerfBleu/pcr_calendar_flat.git`
 1. 在 `config/__bot__.py`的模块列表里加入 `pcr_calendar_flat`
 1. 重启HoshinoBot
 
