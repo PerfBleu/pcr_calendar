@@ -10,9 +10,9 @@ font = ImageFont.truetype(font_path, int(item_height * 0.67))
 
 color = [
     {'front': 'black', 'back': 'white'},
-    {'front': 'white', 'back': 'ForestGreen'},
-    {'front': 'white', 'back': 'DarkOrange'},
-    {'front': 'white', 'back': 'BlueViolet'},
+    {'front': 'white', 'back': '#8cc051'},
+    {'front': 'white', 'back': '#f48222'},
+    {'front': 'white', 'back': '#d870af'},
 ]
 
 def create_image(item_number, title_len):
